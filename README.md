@@ -8,7 +8,7 @@
   
 - 😄 You can also reach out to me on josephlamidijoslam@gmail.com
   
-- ⚡ Born to be great
+- ⚡ Striving for excellence
 
 <!---
 Jaycode01/Jaycode01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
