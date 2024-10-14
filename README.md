@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Joseph Lamidi by name and my progamming name is @Jaycode01
+- 👋 Hi, I’m Joseph Lamidi by name and my progamming name is @Jaycode01 or @joseph_can_code
 
-- 👀 I’m into Software Debvelopment
+- 👀 I’m into Front-End Development
   
-- 🌱 I’m currently learning about software development and looking collaborations with other great minded being for the advancement of my knowledge
+- 🌱 I’m currently learning about full-stack development and looking collaborations with other great minded being for the advancement of my knowledge
   
 - 📫 How to reach me through my portfolio: https://jay-portfolio-delta.vercel.app
   
