@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Lamidi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate front-end developer who is ready to use his skills for the development of the dynamic environment and alos to trainup newbies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaycode01&label=Profile%20views&color=0e75b6&style=flat" alt="jaycode01" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/joseph_can_code" target="blank"><img src="https://img.shields.io/twitter/follow/joseph_can_code?logo=twitter&style=for-the-badge" alt="joseph_can_code" /></a> </p>
 
-- 🌱 I’m currently learning **React, BootStrap, PHP**
+- 🌱 I’m currently learning **React, PHP, Typescript**
 
 - 💬 Ask me about **gsap, html, react, css,javascript**
 
 - 📫 How to reach me **josephlamidijoslam@gmail.com**
 
-- ⚡ Fun fact **Act weird some crazy time**
+- ⚡ Fun fact **Bananas are technically berries, but strawberries aren’t!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
