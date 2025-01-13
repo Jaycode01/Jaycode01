@@ -4,6 +4,9 @@
 
 <h3 align="center">A passionate software developer from Nigeria</h3>
 
+<br/><br/>
+[![wakatime](https://wakatime.com/badge/user/0cac2b2f-bd8c-4e1d-9325-f56abe8a1aa7.svg)](https://wakatime.com/@0cac2b2f-bd8c-4e1d-9325-f56abe8a1aa7)
+
 <br/>
 
 <div align="center">
