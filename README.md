@@ -5,7 +5,6 @@
 <h3 align="center">A passionate software developer from Nigeria</h3>
 
 <br/><br/>
-
 [![wakatime](https://wakatime.com/badge/user/0cac2b2f-bd8c-4e1d-9325-f56abe8a1aa7.svg)](https://wakatime.com/@0cac2b2f-bd8c-4e1d-9325-f56abe8a1aa7)
 
 <br/>
@@ -57,7 +56,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Jaycode01&theme=dark&hide_border=true)](https://git.io/streak-stats)
+ 
+<img src=" https://streak-stats.demolab.com?user=Jaycode01&theme=dark&hide_border=true)](https://git.io/streak-stats">
 
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Jaycode01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
