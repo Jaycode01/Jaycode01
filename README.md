@@ -1,4 +1,4 @@
-![Custom Header](https://img.shields.io/badge/Hello👋,I'm_Joseph-masked.dev-2F80ED?style=for-the-badge&logo=github)
+![Custom Header](https://img.shields.io/badge/Hello👋,I'm_Joseph-Nexon-2F80ED?style=for-the-badge&logo=github)
 <br/>
 [![wakatime](https://wakatime.com/badge/user/0cac2b2f-bd8c-4e1d-9325-f56abe8a1aa7.svg)](https://wakatime.com/@0cac2b2f-bd8c-4e1d-9325-f56abe8a1aa7)
 
