@@ -2,6 +2,7 @@
 <br/>
 [![wakatime](https://wakatime.com/badge/user/0cac2b2f-bd8c-4e1d-9325-f56abe8a1aa7.svg)](https://wakatime.com/@0cac2b2f-bd8c-4e1d-9325-f56abe8a1aa7)
 
+- Hi I'm Nexon
 
 ![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=Jaycode01&show_icons=true&theme=light)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaycode01&layout=compact&theme=light&langs_count=5&hide_progress=true)
