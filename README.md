@@ -16,4 +16,3 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaycode01&theme=github-dark)
 <br/>
-![Hackatime Stats Badge](https://github-readme-stats.hackclub.dev/api/wakatime?username=2222&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
